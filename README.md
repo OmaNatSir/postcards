@@ -1,6 +1,6 @@
 # postcards
-The project for drawing pictures. See details in README file.
-=============================================================
+The project for drawing pictures
+=
 This is a small personal project created for my child by me in 2015.
 
 The idea of this desktop application is creating some pictures which can be used like postcards. A user/child can choose a background, add, move ( by keeping down mouse right button), increase (max 6 times), rotate (to the right by 18 degrees) and delete (by pressing twice mouse right button) elements and save the received picture as a *.png file.
