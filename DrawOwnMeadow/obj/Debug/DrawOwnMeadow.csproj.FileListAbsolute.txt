@@ -1,0 +1,59 @@
+C:\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\bin\Debug\DrawOwnMeadow.exe.config
+C:\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\bin\Debug\DrawOwnMeadow.exe
+C:\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\bin\Debug\DrawOwnMeadow.pdb
+C:\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.csprojResolveAssemblyReference.cache
+C:\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\MyNewMeadow.g.cs
+C:\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\App.g.cs
+C:\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow_MarkupCompile.cache
+C:\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow_MarkupCompile.lref
+C:\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\MyNewMeadow.baml
+C:\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.g.resources
+C:\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.Properties.Resources.resources
+C:\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.csproj.GenerateResource.Cache
+C:\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.exe
+C:\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.pdb
+F:\Natalia\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\MyNewMeadow.g.cs
+F:\Natalia\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\App.g.cs
+F:\Natalia\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow_MarkupCompile.cache
+F:\Natalia\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow_MarkupCompile.lref
+F:\Natalia\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\MyNewMeadow.baml
+F:\Natalia\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.g.resources
+F:\Natalia\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.pdb
+F:\Natalia\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\bin\Debug\DrawOwnMeadow.exe.config
+F:\Natalia\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\bin\Debug\DrawOwnMeadow.exe
+F:\Natalia\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\bin\Debug\DrawOwnMeadow.pdb
+F:\Natalia\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.Properties.Resources.resources
+F:\Natalia\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.csproj.GenerateResource.cache
+F:\Natalia\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.csproj.CoreCompileInputs.cache
+F:\Natalia\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.exe
+F:\Natalia\DEVELOPMENT\VS Express 2015 for Windows Desktop\Landscape\8 - Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.csprojAssemblyReference.cache
+C:\READY for checkin\Meadow\DrawOwnMeadow\DrawOwnMeadow\bin\Debug\DrawOwnMeadow.exe.config
+C:\READY for checkin\Meadow\DrawOwnMeadow\DrawOwnMeadow\bin\Debug\DrawOwnMeadow.exe
+C:\READY for checkin\Meadow\DrawOwnMeadow\DrawOwnMeadow\bin\Debug\DrawOwnMeadow.pdb
+C:\READY for checkin\Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.csprojAssemblyReference.cache
+C:\READY for checkin\Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\MyNewMeadow.g.cs
+C:\READY for checkin\Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\App.g.cs
+C:\READY for checkin\Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow_MarkupCompile.cache
+C:\READY for checkin\Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow_MarkupCompile.lref
+C:\READY for checkin\Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\MyNewMeadow.baml
+C:\READY for checkin\Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.g.resources
+C:\READY for checkin\Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.Properties.Resources.resources
+C:\READY for checkin\Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.csproj.GenerateResource.cache
+C:\READY for checkin\Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.csproj.CoreCompileInputs.cache
+C:\READY for checkin\Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.exe
+C:\READY for checkin\Meadow\DrawOwnMeadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.pdb
+C:\GitHubDEVELOPMENT\Meadow\DrawOwnMeadow\bin\Debug\DrawOwnMeadow.exe.config
+C:\GitHubDEVELOPMENT\Meadow\DrawOwnMeadow\bin\Debug\DrawOwnMeadow.exe
+C:\GitHubDEVELOPMENT\Meadow\DrawOwnMeadow\bin\Debug\DrawOwnMeadow.pdb
+C:\GitHubDEVELOPMENT\Meadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.csprojAssemblyReference.cache
+C:\GitHubDEVELOPMENT\Meadow\DrawOwnMeadow\obj\Debug\MyNewMeadow.g.cs
+C:\GitHubDEVELOPMENT\Meadow\DrawOwnMeadow\obj\Debug\App.g.cs
+C:\GitHubDEVELOPMENT\Meadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow_MarkupCompile.cache
+C:\GitHubDEVELOPMENT\Meadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow_MarkupCompile.lref
+C:\GitHubDEVELOPMENT\Meadow\DrawOwnMeadow\obj\Debug\MyNewMeadow.baml
+C:\GitHubDEVELOPMENT\Meadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.g.resources
+C:\GitHubDEVELOPMENT\Meadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.Properties.Resources.resources
+C:\GitHubDEVELOPMENT\Meadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.csproj.GenerateResource.cache
+C:\GitHubDEVELOPMENT\Meadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.csproj.CoreCompileInputs.cache
+C:\GitHubDEVELOPMENT\Meadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.exe
+C:\GitHubDEVELOPMENT\Meadow\DrawOwnMeadow\obj\Debug\DrawOwnMeadow.pdb
